@@ -2,6 +2,7 @@
 Darknet YOLO TINY configs upgrade
 
 I make small upgrade yolov2-tiny.cfg for Darknet (https://github.com/pjreddie/darknet).
+
 This provides a slightly better prediction in my opinion.
 
 @article{redmon2016yolo9000,
@@ -10,6 +11,7 @@ This provides a slightly better prediction in my opinion.
   journal={arXiv preprint arXiv:1612.08242},
   year={2016}
 }
+
 @article{yolov3,
   title={YOLOv3: An Incremental Improvement},
   author={Redmon, Joseph and Farhadi, Ali},
