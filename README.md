@@ -7,24 +7,24 @@ This provides a slightly better prediction in my opinion.
 
 @article{redmon2016yolo9000,
 
-  title={YOLO9000: Better, Faster, Stronger},
+    title={YOLO9000: Better, Faster, Stronger},
   
-  author={Redmon, Joseph and Farhadi, Ali},
+    author={Redmon, Joseph and Farhadi, Ali},
   
-  journal={arXiv preprint arXiv:1612.08242},
+    journal={arXiv preprint arXiv:1612.08242},
   
-  year={2016}
+    year={2016}
   
 }
 
 @article{yolov3,
 
-  title={YOLOv3: An Incremental Improvement},
+    title={YOLOv3: An Incremental Improvement},
   
-  author={Redmon, Joseph and Farhadi, Ali},
+    author={Redmon, Joseph and Farhadi, Ali},
   
-  journal = {arXiv},
+    journal = {arXiv},
   
-  year={2018}
+    year={2018}
   
 }
